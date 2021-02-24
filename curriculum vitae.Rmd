@@ -1,7 +1,5 @@
 ---
-title: "Curriculum Vitae"
-author: "Dr. Fréderic Van der Cruyssen"
-date: "Laatste update: 2/24/2021"
+title: "Curriculum Vitae Dr. Fréderic Van der Cruyssen"
 output: html_document
 ---
 
@@ -9,28 +7,45 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 ## Contacts
-### Private 
+**Private**
 
-### Work
+**Work**
 
-
+**References**        
+- [ORCID ID: 0000-0002-6888-9219](https://orcid.org/0000-0002-6888-9219)        
+- [ResearchGate](https://www.researchgate.net/profile/Frederic-Van-Der-Cruyssen-2)        
+- [Google Scholar](https://scholar.google.com/citations?user=Qxythj4AAAAJ&hl=nl)        
+- Riziv-Nr.: 1-79427-23-052       
 
 ## Biosketch
 
-This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see <http://rmarkdown.rstudio.com>.
 
-When you click the **Knit** button a document will be generated that includes both content as well as the output of any embedded R code chunks within the document. You can embed an R code chunk like this:
 
-```{r cars}
-summary(cars)
+## Education
+
+```{r education, echo=FALSE}
+
 ```
 
-## Including Plots
+## Grants
 
-You can also embed plots, for example:
+```{r education, echo=FALSE}
 
-```{r pressure, echo=FALSE}
-plot(pressure)
 ```
 
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+## Publications
+```{r features publications, include=FALSE}
+
+```
+
+```{r all publications, include=FALSE}
+
+```
+
+
+## Conferences
+
+```{r conferences, include=FALSE}
+
+```
+
